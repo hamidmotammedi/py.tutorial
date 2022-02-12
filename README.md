@@ -28,7 +28,7 @@ If everything works you should be able to activate the Python environment by ent
 - install new dependency: `pip install scikit-learn`
 - save current installed dependencies back to requirements.txt: `pip freeze > requirements.txt`
 
-python is cool
+python is not very cool
 ## Troubleshooting
 
 If something with your python version is not working, you might need to change the first line in `setup.sh` or `setup.ps1`
